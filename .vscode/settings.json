@@ -1,4 +1,5 @@
 {
             "notebook.outputFontSize": 16,
-            "notebook.output.textLineLimit": 100000000
+            "notebook.output.textLineLimit": 100000000,
+            "editor.minimap.size": "proportional"
 }
